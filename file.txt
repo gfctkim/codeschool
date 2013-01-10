@@ -1,2 +1,1 @@
-file
-line2
+line1ofmaster
