@@ -1,1 +1,1 @@
-line1ofmaster
+line1ofdifferentbranch
