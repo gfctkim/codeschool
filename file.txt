@@ -1,2 +1,1 @@
-changeline1ofmaster
-line1ofdifferentbranch
+line1ofmaster
