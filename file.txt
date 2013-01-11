@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-changeline1ofmaster
-=======
-line1ofdifferentbranch
->>>>>>> cool_feature
